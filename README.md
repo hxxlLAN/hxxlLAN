@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hxxlLAN
-- 👀 I’m interested in ai, gaming and games development(unity\unreal).
+- 👀 I’m interested in AI, gaming and game development(unity\unreal).
 - 🌱 I’m currently learning c sharp, c\c++, CUDA.
 - 💞️ I’m looking to collaborate on game development projects.
 - 📫 How to reach me , bilibili(“HXXL岚”），email：2467089164@qq.com
